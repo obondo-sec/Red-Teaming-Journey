@@ -2,7 +2,7 @@
 
 Documenting my daily progress to becoming a Red Team Operator.
 
-## 📅 Progress Tracker
+##  Progress Tracker
 
 | Theme | Status | Days Completed |
 | :--- | :--- | :--- |
