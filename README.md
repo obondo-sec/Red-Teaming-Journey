@@ -6,7 +6,7 @@ Documenting my daily progress to becoming a Red Team Operator.
 
 | Theme | Status | Days Completed |
 | :--- | :--- | :--- |
-| 01 - Networking + Linux |  In Progress | 3 |
+| 01 - Networking + Linux |  In Progress | 4 |
 | 02 - Web + Defense | ⬜ in progress | 0 |
 | 03 - Scripting + Tool Dev | ⬜ in progress | 4 |
 | 04 - Cloud + Containers | ⬜ Not Started | 0 |
