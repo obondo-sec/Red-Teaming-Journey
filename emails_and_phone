@@ -1,0 +1,25 @@
+=== INTERNAL COMPANY DIRECTORY ===
+
+Please review the list of staff contacts below. 
+
+1. John Doe (Manager)
+   Phone: +254712345678
+   Email: john.doe@company.co.ke
+
+2. Jane Smith (HR)
+   Phone: 0798765432
+   Email: jane.smith@gmail.com
+
+3. IT Support Desk
+   Phone: 0711223344
+   Email: it.support@techsolutions.org
+
+4. Finance Department
+   Phone: 0 733 445 566
+   Email: billing@finance-africa.com
+
+5. Security (Invalid entries for testing)
+   Phone: 0812345678 (Invalid, starts with 8)
+   Phone: 0712-345-678 (Invalid, has dashes)
+   Phone: +254 700 112 233 (Valid, has spaces)
+   Email: fake@invalid (Invalid, missing .com)
