@@ -8,5 +8,5 @@ Documenting my daily progress to becoming a Red Team Operator.
 | :--- | :--- | :--- |
 | 01 - Networking + Linux |  In Progress | 6 |
 | 02 - Web + Defense | ⬜ Not Started | 0 |
-| 03 - Scripting + Tool Dev | ⬜ in progress | 7 |
+| 03 - Scripting + Tool Dev | ⬜ in progress | 8 |
 | 04 - Cloud + Containers | ⬜ Not Started | 0 |
